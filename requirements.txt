@@ -1,0 +1,6 @@
+pyTelegramBotAPI >= 4.1.1
+pywhatkit >= 5.1
+slackclient >= 2.9.3
+slackeventsapi >= 3.0.0
+vk_api >= 11.9.4
+psycopg2 >= 2.8.6
